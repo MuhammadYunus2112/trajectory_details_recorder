@@ -1,0 +1,1 @@
+[Planning] elapsed_time(s): 0.68235 - length(m): 13.40000
